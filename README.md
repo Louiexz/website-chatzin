@@ -30,13 +30,13 @@ Este é um simples aplicativo de chat online construído com Flask e Socket.IO. 
 
 1. Acesse o chat:
 
-    - https://chatzin-dztl.onrender.com/
+    - [Chatzin](https://chatzin-dztl.onrender.com/)
 
 2. Ou siga os seguintes passos:
 
 - Clone o repositório:
 
-        git clone https://github.com/Louiexz/Site-Flask.git
+        git clone https://github.com/Louiexz/website-chatzin.git
         cd Site-Flask
  
  - Instale as dependências:
